@@ -1,23 +1,17 @@
 **Audio Recorder**
 
-**Overview**
-
 The Audio Recorder is a simple desktop application built using Python's Tkinter library and PyAudio. It allows users to record, stop, and save audio recordings in WAV format. The application features a user-friendly interface with buttons for starting, stopping, and saving recordings.
 
 **Features**
 
 Start Recording: Begin recording audio from the microphone.
-
 Stop Recording: Stop the current recording session.
-
 Save Recording: Save the recorded audio to a WAV file.
 
 **Requirements**
 
 Python 3.x
-
 PyAudio
-
 Tkinter
 
 **Installation**
@@ -25,7 +19,6 @@ Tkinter
 Clone the Repository:
 
 git clone https://github.com/yourusername/audiorecorder.git
-
 cd audiorecorder
 
 **Install Dependencies:**
@@ -45,7 +38,6 @@ python main.py
 **Interact with the Interface:**
 
 Start Recording: Click the "Start Recording" button to begin recording.
-
 Stop Recording: Click the "Stop Recording" button to end the recording session.
 Save Recording: Click the "Save Recording" button to choose a location and save your audio file.
 
